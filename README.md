@@ -14,5 +14,8 @@ Features
 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
+
+
 Backend: PHP (or Node.js if applicable)
+
 Database: MySQL (if used)
